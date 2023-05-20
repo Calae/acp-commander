@@ -4,7 +4,7 @@ ACP Commander is a stock firmware control application for Buffalo NAS devices. I
 
 If this project helps you, please click the Star at the top of the page to let me know!
 
-You may also have a look at our Wiki at https://buffalonas.miraheze.org and join our Discord at https://discord.gg/2Js7ezAbzm!
+In addition to the Issues and Discussions tabs on GitHub we now also have a Discord channel at https://discord.gg/E88dkcuyW4 or our IRC on Libera.Chat in the #miraheze-buffalonas channel
 
 ## Compilation
 
