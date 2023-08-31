@@ -1,0 +1,14 @@
+./src/acpcommander/acp/AcpDevice.java
+./src/acpcommander/acp/toolkit/AcpCommunication.java
+./src/acpcommander/acp/toolkit/AcpEncryption.java
+./src/acpcommander/acp/toolkit/AcpPacketCreator.java
+./src/acpcommander/acp/toolkit/AcpParser.java
+./src/acpcommander/acp/toolkit/reply/AcpReply.java
+./src/acpcommander/acp/toolkit/reply/AcpReplyType.java
+./src/acpcommander/launch/AcpCommander.java
+./src/acpcommander/launch/AcpCommanderGui.java
+./src/acpcommander/util/CannedMessages.java
+./src/acpcommander/util/NetTools.java
+./src/acpcommander/util/ParameterReader.java
+./src/acpcommander/util/ScopedLogger.java
+./src/acpcommander/util/StaticFileHandler.java
